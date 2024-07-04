@@ -3,7 +3,10 @@
 }
 
 .header {
-  background: url(../images/header-background.jpg) center center/cover
-    no-repeat;
+  background: url(../images/header-background.jpg) center center/cover no-repeat;
   background-size: cover;
+}
+
+.hstack {
+  align-items: start !important;
 }
