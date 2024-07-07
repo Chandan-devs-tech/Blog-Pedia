@@ -19,3 +19,7 @@
 .hstack {
   align-items: start !important;
 }
+
+.modal-dialog {
+  max-width: 1040px !important;
+}
